@@ -1,0 +1,2 @@
+# bot
+afterlife_bot
