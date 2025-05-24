@@ -1,3 +1,4 @@
 # Afterlife Bot
 
-Telegram bot powered by GPT-4, with support for role-specific response behavior.
+Διὰ θαλάσσης ἀέρος ῥέω,
+εἰ βούλει, πέτομεν ἅμα σοί.
